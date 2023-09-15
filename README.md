@@ -6,8 +6,8 @@ A full list of dozens of IDEs, Code editors and more and my opinion/ranking of t
 
 
 | Editors/IDE   | Personal Ranking | Download | Type |
-| ------------- | -------------------------------------------------------------------------------- | -------------------------------------------  | ------------------------------------------ | -------------------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=atom)](https://skillicons.dev) Atom                 | https://github.com/atom/atom/releases/tag/v1.60.0 | S(Subject to change as its discontinued)            | Code Editor(Desktop, General code editor)  |
+| ------------- | -------------------------------------------------------------------------------- | -------------------------------------------  | ------------------------------------  |
+| [![My Skills](https://skillicons.dev/icons?i=atom)](https://skillicons.dev) Atom                 | S(Subject to change as its discontinued)            | Code Editor(Desktop, General code editor)  |
 | [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) Eclipse           | C(Not that good + just light theme)                 | IDE(Desktop, Mainly for Java)              |
 | [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) IntelliJ IDEA        | S(Best java IDE, but its limting for other things)  | IDE(Desktop, Mainly for Java)       |
 | [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev) Neovim             | A(I havent used it much, its quite efficent but i dont have a well formed opinion)        | Code Editor(Desktop, General code editor) |
